@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - dev
+      - draft/interesting-mayer
   pull_request:
     branches:
       - main
