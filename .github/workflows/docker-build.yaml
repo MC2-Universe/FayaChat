@@ -6,6 +6,7 @@ on:
     branches:
       - main
       - dev
+      - draft/interesting-mayer
     tags:
       - v*
 
