@@ -1036,7 +1036,7 @@
 	"TLS": "TLS",
 	"To access the available model names for downloading,": "За достъп до наличните имена на модели за изтегляне,",
 	"To access the GGUF models available for downloading,": "За достъп до наличните GGUF модели за изтегляне,",
-	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "За достъп до уеб интерфейса, моля, свържете се с администратора. Администраторите могат да управляват статусите на потребителите от Административния панел.",
+	"To access Faya, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "За достъп до уеб интерфейса, моля, свържете се с администратора. Администраторите могат да управляват статусите на потребителите от Административния панел.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "За да прикачите база знания тук, първо ги добавете към работното пространство \"Знания\".",
 	"To learn more about available endpoints, visit our documentation.": "За да научите повече за наличните крайни точки, посетете нашата документация.",
 	"To protect your privacy, only ratings, model IDs, tags, and metadata are shared from your feedback—your chat logs remain private and are not included.": "За да защитим вашата поверителност, от вашата обратна връзка се споделят само оценки, идентификатори на модели, тагове и метаданни—вашите чат логове остават лични и не са включени.",

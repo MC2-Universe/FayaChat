@@ -176,7 +176,7 @@
 								<a href="https://discord.gg/2dx8NGhZfK" target="_blank">
 									<img
 										alt="Discord"
-										src="https://img.shields.io/badge/Discord-MC2-Universe-blue?logo=discord&logoColor=white"
+										src="https://img.shields.io/badge/Discord-MC2--Universe-blue?logo=discord&logoColor=white"
 									/>
 								</a>
 

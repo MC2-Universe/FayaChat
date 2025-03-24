@@ -103,7 +103,7 @@
 		}
 
 		if (themeToApply === 'dark' && !_theme.includes('oled')) {
-			document.documentElement.style.setProperty('--color-gray-800', '#333');
+			document.documentElement.style.setProperty('--color-gray-800', '#2b2d36');
 			document.documentElement.style.setProperty('--color-gray-850', '#262626');
 			document.documentElement.style.setProperty('--color-gray-900', '#171717');
 			document.documentElement.style.setProperty('--color-gray-950', '#0d0d0d');
@@ -136,7 +136,7 @@
 					_theme === 'dark'
 						? '#171717'
 						: _theme === 'oled-dark'
-							? '#000000'
+							? '#323a4e'
 							: _theme === 'her'
 								? '#983724'
 								: '#ffffff'
@@ -151,8 +151,8 @@
 		if (_theme.includes('oled')) {
 			document.documentElement.style.setProperty('--color-gray-800', '#101010');
 			document.documentElement.style.setProperty('--color-gray-850', '#050505');
-			document.documentElement.style.setProperty('--color-gray-900', '#000000');
-			document.documentElement.style.setProperty('--color-gray-950', '#000000');
+			document.documentElement.style.setProperty('--color-gray-900', '#323a4e');
+			document.documentElement.style.setProperty('--color-gray-950', '#323a4e');
 			document.documentElement.classList.add('dark');
 		}
 

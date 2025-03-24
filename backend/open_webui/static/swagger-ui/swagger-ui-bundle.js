@@ -56679,7 +56679,7 @@
 							display: 'block',
 							overflowX: 'auto',
 							padding: '0.5em',
-							background: '#333',
+							background: '#2b2d36',
 							color: 'white'
 						},
 						'hljs-name': { fontWeight: 'bold' },
@@ -56706,11 +56706,11 @@
 						'hljs-selector-tag': { color: '#fcc28c' },
 						'hljs-literal': { color: '#fcc28c' },
 						'hljs-comment': { color: '#888' },
-						'hljs-deletion': { color: '#333', backgroundColor: '#fc9b9b' },
+						'hljs-deletion': { color: '#2b2d36', backgroundColor: '#fc9b9b' },
 						'hljs-regexp': { color: '#c6b4f0' },
 						'hljs-link': { color: '#c6b4f0' },
 						'hljs-meta': { color: '#fc9b9b' },
-						'hljs-addition': { backgroundColor: '#a2fca2', color: '#333' }
+						'hljs-addition': { backgroundColor: '#a2fca2', color: '#2b2d36' }
 					},
 					tk = {
 						agate: Qx,

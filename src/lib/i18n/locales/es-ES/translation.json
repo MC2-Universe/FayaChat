@@ -1036,7 +1036,7 @@
 	"TLS": "TLS",
 	"To access the available model names for downloading,": "Para acceder a los nombres de modelos disponibles para descargar,",
 	"To access the GGUF models available for downloading,": "Para acceder a los modelos GGUF disponibles para descargar,",
-	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "Para acceder al interfaz de usuario web, por favor contacte al administrador. Los administradores pueden administrar los estados de los usuarios desde el panel de administración.",
+	"To access Faya, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "Para acceder al interfaz de usuario web, por favor contacte al administrador. Los administradores pueden administrar los estados de los usuarios desde el panel de administración.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "Para adjuntar la base de conocimientos aquí, agreguelas al área de trabajo \"Conocimiento\" primero.",
 	"To learn more about available endpoints, visit our documentation.": "Para obtener más información sobre los endpoints disponibles, visite nuestra documentación.",
 	"To protect your privacy, only ratings, model IDs, tags, and metadata are shared from your feedback—your chat logs remain private and are not included.": "Para proteger su privacidad, solo se comparten calificaciones, IDs de modelos, etiquetas y metadatos de su retroalimentación; sus registros de chat permanecen privados y no se incluyen.",

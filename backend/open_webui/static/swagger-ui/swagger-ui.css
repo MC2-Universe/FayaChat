@@ -721,7 +721,7 @@
 	border-color: #111;
 }
 .swagger-ui .b--dark-gray {
-	border-color: #333;
+	border-color: #2b2d36;
 }
 .swagger-ui .b--mid-gray {
 	border-color: #555;
@@ -3775,7 +3775,7 @@
 	color: #111;
 }
 .swagger-ui .dark-gray {
-	color: #333;
+	color: #2b2d36;
 }
 .swagger-ui .mid-gray {
 	color: #555;
@@ -3937,13 +3937,13 @@
 	background-color: hsla(0, 0%, 100%, 0.1);
 }
 .swagger-ui .bg-black {
-	background-color: #000;
+	background-color: #2a2d35;
 }
 .swagger-ui .bg-near-black {
-	background-color: #111;
+	background-color: #323a4e;
 }
 .swagger-ui .bg-dark-gray {
-	background-color: #333;
+	background-color: #2b2d36;
 }
 .swagger-ui .bg-mid-gray {
 	background-color: #555;
@@ -4060,7 +4060,7 @@
 }
 .swagger-ui .hover-dark-gray:focus,
 .swagger-ui .hover-dark-gray:hover {
-	color: #333;
+	color: #2b2d36;
 }
 .swagger-ui .hover-mid-gray:focus,
 .swagger-ui .hover-mid-gray:hover {
@@ -4176,11 +4176,11 @@
 }
 .swagger-ui .hover-bg-near-black:focus,
 .swagger-ui .hover-bg-near-black:hover {
-	background-color: #111;
+	background-color: #323a4e;
 }
 .swagger-ui .hover-bg-dark-gray:focus,
 .swagger-ui .hover-bg-dark-gray:hover {
-	background-color: #333;
+	background-color: #2b2d36;
 }
 .swagger-ui .hover-bg-mid-gray:focus,
 .swagger-ui .hover-bg-mid-gray:hover {
@@ -7679,7 +7679,7 @@
 	margin: 3em auto;
 }
 .swagger-ui .opblock-body pre.microlight {
-	background: #333;
+	background: #2b2d36;
 	border-radius: 4px;
 	font-size: 12px;
 	hyphens: auto;
